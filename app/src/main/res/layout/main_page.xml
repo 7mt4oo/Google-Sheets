@@ -18,7 +18,8 @@
         app:titleTextColor="#ffffff"
         app:subtitleTextColor="@color/zxing_status_text"
         android:minHeight="?attr/actionBarSize"
-        android:theme="@style/AppTheme" />
+        android:theme="@style/AppTheme"
+        tools:ignore="MissingConstraints" />
 
 
     <Button

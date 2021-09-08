@@ -68,6 +68,7 @@ public class MainActivity extends AppCompatActivity {
                 new SendRequest().execute();
 
 
+
             } else {
             }
             if (result != null) {
@@ -214,10 +215,3 @@ public class MainActivity extends AppCompatActivity {
 
 
     }
-
-
-
-
-
-
-
