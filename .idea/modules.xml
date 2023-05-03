@@ -4,6 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Google-Sheets.iml" filepath="$PROJECT_DIR$/Google-Sheets.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Google-Sheets.app.unitTest.iml" />
     </modules>
   </component>
 </project>
